@@ -6,4 +6,5 @@ export enum Model {
   'Gemini 1.0 Pro (Tuning)' = 'gemini-1.0-pro-001',
   'Gemini 1.5 Pro' = 'gemini-1.5-pro-latest',
   'Gemini 1.5 Flash' = 'gemini-1.5-flash-latest',
+  'Gemini 2.0 Flash Experimental' = 'gemini-2.0-flash-exp'
 }
